@@ -1,2 +1,2 @@
 # swgGame
-#snake waterdvkjdbvjk gun basic game using javascript
+#snake water gun basic game using javascript
